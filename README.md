@@ -1,5 +1,7 @@
 ## 👋 ¡Hola! Soy Juan Pérez, un apasionado desarrollador de software con más de 4 años de experiencia en el mundo de la programación. Mi especialidad radica en el desarrollo de aplicaciones empresariales utilizando VB.NET y gestionando bases de datos en MySQL. A lo largo de mi carrera, he trabajado en proyectos desafiantes y he contribuido al éxito de diversas empresas.
 
+Test de conexión con GITHUB
+
 <!--
 **juandevian/juandevian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
