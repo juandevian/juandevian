@@ -43,5 +43,5 @@ Actualmente lleva dos años y medio estudiando la aplicación de la Inteligencia
 
 ## Contacto
 - 📧 Correo Electrónico: juanvjaramillo@gmail.com
-- 🌐 LinkedIn: juan
-- 🐦 Twitter: @juan
+- 🌐 LinkedIn: www.linkedin.com/in/juandevian
+- 🐦 Twitter: @juandevian
