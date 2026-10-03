@@ -36,25 +36,12 @@ Actualmente lleva dos años y medio estudiando la aplicación de la Inteligencia
 - Colaboré en el desarrollo de un módulo de inventario para una empresa de logística de mercados para restaurantes. La requisición de alimento en las cocinas garantiza al 100% la disponibilidad de productos y su frescura.
 
 ## Educación
-- Ingeniería en Sistemas de Información, Universidad Imaginaria (¡sí, es imaginaria, pero mi título es real! 🎓)
+- Tecnología en Análisis y Desarrollo de Sistemas de Información, SENA
+- Ingeniería Electrónica, Universidad Nacional de Colombia
+- Diseñador Visual, Universidd de Caldas.
+- Especialista en Diseño y Desarrollo de Software, SENA (Espesialización tecnológica)
 
 ## Contacto
-- 📧 Correo Electrónico: juan.perez.dev@example.com
-- 🌐 LinkedIn: Juan Pérez
-- 🐦 Twitter: @juanperezdev
-
-¡Si necesitas más detalles o alguna otra mejora, no dudes en decírmelo! 😊🚀
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Correo Electrónico: juanvjaramillo@gmail.com
+- 🌐 LinkedIn: juan
+- 🐦 Twitter: @juan
