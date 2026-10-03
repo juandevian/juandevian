@@ -1,30 +1,25 @@
-## 👋 ¡Hola! Soy Juan Villegas, un apasionado desarrollador de software con más de 4 años de experiencia en el mundo de la programación. Mi especialidad radica en el desarrollo de aplicaciones empresariales utilizando VB.NET y gestionando bases de datos en MySQL. A lo largo de mi carrera, he trabajado en proyectos desafiantes y he contribuido al éxito de diversas empresas.
-
-Test de conexión con GITHUB
-
-<!--
-**juandevian/juandevian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Perfil Profesional de Juan Pérez
-
-!Juan Pérez <!-- Placeholder image, feel free to replace with an actual image! -->
-
-¡Hola! Soy Juan Pérez, un apasionado desarrollador de software con más de 4 años de experiencia en el mundo de la programación. Mi especialidad radica en el desarrollo de aplicaciones empresariales utilizando VB.NET y gestionando bases de datos en MySQL. A lo largo de mi carrera, he trabajado en proyectos desafiantes y he contribuido al éxito de diversas empresas.
+## 👋 ¡Hola! Soy Juan (Ian), un apasionado emprendedor y desarrollador de software con un poco más de 6 años de experiencia en el análisis, diseño y desarrollo de software en .Net, JS y python. Además de un recorrido en la creación y gestión de empresas de 5 años interrumpidos. 2019 a 2022 y 2025 -2026. Me especialicé en la atención al cliente y el desarrollo de aplicaciones empresariales enfocadas al cliente. usando diversos lenguajes de programación y bases de datos cómo MySQL y postgres.
+A lo largo de mi carrera, he trabajado para algunas empresas, como ARIADNA CG, GROWDATA, GLOBAL TALENT, Telefónica entre otras, pero especialmente me he centrado en desarrollar mis habilidades blandas y técnicas para usarlas en la creación de producto enfocado al cliente.
 
 ## Habilidades Técnicas
 
-### Lenguajes de Programación:
-- **VB.NET:** Mi lenguaje favorito. 😎
-- **C#:** También me desenvuelvo bastante bien.
-- **SQL:** Porque una aplicación sin una base de datos no es lo mismo.
+### Lenguajes de Programación espesíficos:
+- **VB.NET**
+- **C#** 
+- **Python**
+- ***.Net CORE*
 
 ### Bases de Datos:
-- **MySQL:** Manejo consultas complejas con los ojos cerrados.
-- **SQL Server:** Sí, también he trabajado con él.
+- **MySQL** 
+- **Postgres**
+- **SQL Server**
 
-### Desarrollo Frontend:
-- **WinForms:** Sí, todavía existen y son útiles.
-- **WPF:** Me encanta su flexibilidad.
+### Frontend:
+- **WinForms**
+- **WPF**
+- **Node**
+- **Larable**
+- **Boostrap**
 
 ### Desarrollo Backend:
 - **ASP.NET:** Sí, también soy un poco web.
